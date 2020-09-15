@@ -1,0 +1,109 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5683/SP2/DQOKPB",
+        "identifierSource": "DOI"
+    },
+    "title": "Systematic phenomics analysis of autism-associated genes reveals parallel networks underlying reversible impairments in habituation",
+    "creators": [
+        {
+            "name": "Pavlidis, Paul"
+        }
+    ],
+    "description": "Supporting data for 'Systematic phenomics analysis of autism-associated genes reveals parallel networks underlying reversible impairments in habituation' (2019-11-07)",
+    "version": "3.2",
+    "licenses": [
+        {
+            "name": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "zip"
+            ],
+            "size": 9.32,
+            "unit": {
+                "value": "GB"
+            },
+            "access": {
+                "landingPage": "https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/DQOKPB",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Vancouver"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "13"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "medicine"
+        },
+        {
+            "value": "health and life sciences"
+        }
+    ]
+}
