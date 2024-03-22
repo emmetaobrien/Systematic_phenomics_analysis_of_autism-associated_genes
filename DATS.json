@@ -136,7 +136,8 @@
     ],
     "types": [
         {
-            "value": "medicine"
+            "value": "medicine",
+			"valueIRI": "http://uri.interlex.org/ilx_0106723"
         },
         {
             "value": "health and life sciences"
